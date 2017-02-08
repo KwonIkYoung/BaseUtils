@@ -19,7 +19,7 @@ Documents
 
 > **Util List:**
 >  1. RecyclerView
->  - support HeaderView and FooterView 
->  - support LoadingView and More Loading
+  - support HeaderView and FooterView 
+  - support LoadingView and More Loading
 
 
