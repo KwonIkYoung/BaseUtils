@@ -3,7 +3,9 @@ Welcome to Gurumi Base!
 
 ----------
 Gurumi BaseUtils 입니다.
+
 Android Project를 진행 중 필요한 것을 만들어 둔 프로젝트 입니다.
+
 추후 라이브러리화도 진행할까 생각해 봅니다. 
 
 ----------
